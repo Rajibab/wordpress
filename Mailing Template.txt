@@ -1,0 +1,30 @@
+///////For Admin\\\\\\
+
+<div  style="height: auto; margin: 0; padding: 100px 0; width: 100%; background: #f1f1f1 none repeat scroll 0 0; font-family: Trebuchet MS;">
+<section  style="padding: 0; max-width: 550px; margin:0px auto; box-shadow: 1px 1px 20px -10px rgba(0, 0, 0, 0.45); background:#fff; border: 10px solid #ed1d24;">
+<header style="border-bottom: 1px solid #eee; box-sizing: border-box; display: inline-block;  padding: 20px 20px 10px; width: 100%;"><a href="concastmaxx.com"  style="float: left; width: 200px;"><img src="https://concastmaxx.com/wp-content/themes/hcar/assets/images/logo.jpg" alt="" style="width: 100%;" /></a></header>
+<div  style="padding: 0px 20px 20px; width:100%; display:inline-block; box-sizing: border-box;">
+<p style="color: #666; float: left; font-size: 14px; width: 100%; margin: 0;">Name: [your-name]</p>
+<p style="color: #666; float: left; font-size: 14px; width: 100%; margin: 0;">Email: [your-email]</p>
+<p style="color: #666; float: left; font-size: 14px; width: 100%; margin: 0;">Phone: [Phone]</p>
+<p style="color: #666; float: left; font-size: 14px; width: 100%; margin: 0;">Apply for the post: [applyfor]</p>
+<p style="color: #666; float: left; font-size: 14px; width: 100%; margin: 0;">Message: [your-message]</p>
+</div>
+</section>
+</div>
+
+
+///////For User\\\\\\
+
+<div  style="height: auto; margin: 0; padding: 100px 0; width: 100%; background: #f1f1f1 none repeat scroll 0 0; font-family: Trebuchet MS;">
+<section  style="padding: 0; max-width: 550px; margin:0px auto; box-shadow: 1px 1px 20px -10px rgba(0, 0, 0, 0.45); background:#fff; border: 10px solid #ed1d24;">
+<header style="border-bottom: 1px solid #eee; box-sizing: border-box; display: inline-block;  padding: 20px 20px 10px; width: 100%;"><a href="concastmaxx.com"  style="float: left; width: 200px;"><img src="https://concastmaxx.com/wp-content/themes/hcar/assets/images/logo.jpg" alt="" style="width: 100%;" /></a></header>
+<div  style="padding: 0px 20px 20px; width:100%; display:inline-block; box-sizing: border-box;">
+<p style="color: #666; float: left; font-size: 14px; width: 100%; margin: 0;"><span  style="display: inline-block; padding:20px 0 10px;">Dear [your-name],</span><br />
+Thank you for writing to us. We have received your message and will get back to you within 24 hours. <br />
+Until then, you can give us a call anytime at +91 9903-99-1913.
+<br /><span style="display: inline-block; padding:20px 0 10px;">Thanking You,<br />Concastmaxx</span>
+</p>
+</div>
+</section>
+</div>
