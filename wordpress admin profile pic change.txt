@@ -1,0 +1,8 @@
+Goto appearance -> themeeditor -> function.php -> add this code -> your_image_url= add img utl link from wp media
+
+add_filter( 'avatar_defaults', 'wpb_new_gravatar' );
+function wpb_new_gravatar ($avatar_defaults) {
+$myavatar = 'your_image_url';
+$avatar_defaults[$myavatar] = "Default Gravatar";
+return $avatar_defaults;
+}
